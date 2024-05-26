@@ -175,14 +175,3 @@ INSERT INTO participant (ID, trainingID)
 VALUES (234567900, 10);
 
 
--- Update academic_institution to add representativeID
-UPDATE academic_institution SET representativeID = 123456789 WHERE institutionID = 1000000001;
-UPDATE academic_institution SET representativeID = 123456788 WHERE institutionID = 1000000002;
-UPDATE academic_institution SET representativeID = 123456787 WHERE institutionID = 1000000003;
-UPDATE academic_institution SET representativeID = 123456786 WHERE institutionID = 1000000004;
-UPDATE academic_institution SET representativeID = 123456785 WHERE institutionID = 1000000005;
-UPDATE academic_institution SET representativeID = 123456784 WHERE institutionID = 1000000006;
-UPDATE academic_institution SET representativeID = 123456783 WHERE institutionID = 1000000007;
-UPDATE academic_institution SET representativeID = 123456782 WHERE institutionID = 1000000008;
-UPDATE academic_institution SET representativeID = 123456781 WHERE institutionID = 1000000009;
-UPDATE academic_institution SET representativeID = 123456780 WHERE institutionID = 1000000010;
